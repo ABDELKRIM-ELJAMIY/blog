@@ -52,7 +52,7 @@ ul li a:hover{
 
 .menu a.active {
     background-color: black;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     border-bottom: 3px solid black;
     border: 1px solid ;
     font-weight: bold;
